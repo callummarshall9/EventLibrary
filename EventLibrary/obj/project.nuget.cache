@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "z+yVYNmra3MibNq2pARfo77LBC/FdnZcTRNEvykm1arpleUpdxo5N5vgxM5jba2PYQYthqekFHzGhxFABTvF9A==",
+  "success": true,
+  "projectFilePath": "/Users/cmarshall/Projects/CLX/Shared/EventLibrary/EventLibrary.csproj",
+  "expectedPackageFiles": [
+    "/Users/cmarshall/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "/Users/cmarshall/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.2/microsoft.extensions.logging.abstractions.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

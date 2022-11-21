@@ -1,0 +1,12 @@
+/Users/cmarshall/Projects/CLX/Shared/EventLibrary/bin/Debug/net7.0/EventLibrary.deps.json
+/Users/cmarshall/Projects/CLX/Shared/EventLibrary/bin/Debug/net7.0/EventLibrary.dll
+/Users/cmarshall/Projects/CLX/Shared/EventLibrary/bin/Debug/net7.0/EventLibrary.pdb
+/Users/cmarshall/Projects/CLX/Shared/EventLibrary/obj/Debug/net7.0/EventLibrary.csproj.AssemblyReference.cache
+/Users/cmarshall/Projects/CLX/Shared/EventLibrary/obj/Debug/net7.0/EventLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cmarshall/Projects/CLX/Shared/EventLibrary/obj/Debug/net7.0/EventLibrary.AssemblyInfoInputs.cache
+/Users/cmarshall/Projects/CLX/Shared/EventLibrary/obj/Debug/net7.0/EventLibrary.AssemblyInfo.cs
+/Users/cmarshall/Projects/CLX/Shared/EventLibrary/obj/Debug/net7.0/EventLibrary.csproj.CoreCompileInputs.cache
+/Users/cmarshall/Projects/CLX/Shared/EventLibrary/obj/Debug/net7.0/EventLibrary.dll
+/Users/cmarshall/Projects/CLX/Shared/EventLibrary/obj/Debug/net7.0/refint/EventLibrary.dll
+/Users/cmarshall/Projects/CLX/Shared/EventLibrary/obj/Debug/net7.0/EventLibrary.pdb
+/Users/cmarshall/Projects/CLX/Shared/EventLibrary/obj/Debug/net7.0/ref/EventLibrary.dll
