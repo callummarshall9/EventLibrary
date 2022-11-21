@@ -31,4 +31,4 @@ jobs:
     - name: Add NuGet source
       run: dotnet nuget add source --username callummarshall9 --password ${{ secrets.GITHUB_TOKEN }} --store-password-in-clear-text --name github "https://nuget.pkg.github.com/callummarshall9/index.json"
     - name: Push to Packages
-      run: dotnet nuget push EventLibrary/EventLibrary/bin/Release/*.nupkg --api-key ${{ secrets.NUGET_SECRET }} --source "github"
+      run: dotnet nuget push EventLibrary/bin/Release/*.nupkg --api-key ${{ secrets.NUGET_SECRET }} --source "github"
