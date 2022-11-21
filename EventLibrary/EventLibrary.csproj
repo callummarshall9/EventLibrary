@@ -6,7 +6,6 @@
     <Nullable>disable</Nullable>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <RepositoryUrl>https://github.com/callummarshall9/EventLibrary.git</RepositoryUrl>
-    <RepositoryType>git</RepositoryType>
     <Title>EventLibrary</Title>
 		<Version>1.0.1</Version>
 		<AssemblyVersion>1.0.1</AssemblyVersion>
