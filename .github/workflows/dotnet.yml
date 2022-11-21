@@ -29,4 +29,4 @@ jobs:
     - name: Pack
       run: dotnet pack --configuration Release
     - name: Add NuGet source
-      run: dotnet nuget push bin/Release/*.1.0.0.nupkg  --api-key ${{ secrets.GITHUB_TOKEN }} --source "github"
+      run: dotnet nuget push bin/Release/*.1.0.0.nupkg  --api-key ${{ secrets.NUGET_SECRET }} --source "github"
