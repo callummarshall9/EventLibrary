@@ -1,4 +1,7 @@
-﻿namespace EventLibrary.Services
+﻿using System;
+using System.Threading.Tasks;
+
+namespace EventLibrary.Services
 {
     public interface IEventService<T>
     {

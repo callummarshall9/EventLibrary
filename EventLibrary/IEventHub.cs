@@ -1,4 +1,7 @@
-﻿namespace EventLibrary
+﻿using System;
+using System.Threading.Tasks;
+
+namespace EventLibrary
 {
     public interface IEventHub
     {
