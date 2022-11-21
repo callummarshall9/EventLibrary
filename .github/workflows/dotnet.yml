@@ -29,4 +29,4 @@ jobs:
     - name: Pack
       run: dotnet pack --configuration Release
     - name: Push to Packages
-      run: dotnet nuget push EventLibrary/bin/Release/*.nupkg -Source 'https://api.nuget.org/v3/index.json' -ApiKey ${{secrets.NUGET_API_KEY}}
+      run: dotnet nuget push EventLibrary/bin/Release/*.nupkg --source 'https://api.nuget.org/v3/index.json' --api-key ${{secrets.NUGET_API_KEY}}
